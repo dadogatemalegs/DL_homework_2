@@ -1,2 +1,12 @@
 ^(from|to): o.*
 10
+To: outlook.team@enron.com
+To: outlook.team@enron.com
+From: owner-strawbale@crest.org
+To: outlook.team@enron.com
+From: outlook-migration-team@enron.com
+From: outlook-migration-team@enron.com
+From: online.service@schwab.com
+From: open2win.0ll1.net@mailman.enron.com
+From: oportunity@cells4free.com
+From: owner-strawbale@crest.org
