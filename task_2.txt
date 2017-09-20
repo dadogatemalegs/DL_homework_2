@@ -3,7 +3,6 @@
  outlook.team@enron.com
  outlook.team@enron.com
  Outlook.2000@enron.com
-
 off-yild@zdemail.zdlists.com.
  on-yild@zdemail.zdlists.com
  owner-strawbale@crest.org
@@ -14,13 +13,11 @@ off-yild@zdemail.zdlists.com.
  Outlook.2000@enron.com
  outlook-migration-team@enron.com
  outlook-migration-team@enron.com
-
 ove@commissioner.com
  online.service@schwab.com
  oscar.dalton@enron.com,
  open2win.0ll1.net@mailman.enron.com
  oportunity@cells4free.com
-
 off-yild@zdemail.zdlists.com.
  on-yild@zdemail.zdlists.com
  owner-strawbale@crest.org
